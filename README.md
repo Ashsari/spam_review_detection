@@ -12,12 +12,15 @@ Prerequisites to run the codes:
 The code can be run following these steps:
 
 Step 1: Preprocessing
+
 Cleaning the reviews, calculating the TF/IDF and constructing word embedding matrix using preprocessing.py.
 
 Step 2 : SOM Clustering of words
+
 Clustering the vocabulary and constructing SOM image map by importing SRD_minisom.py library using the Clustering_words_SOM.py
 
 Step 3 : Reviews image construction and CNN classification
+
 Constructing the review images through SOM image map, training and classification by using Constructing_images_classification.py
 
 We used Google Colab environment to perform our experiments.

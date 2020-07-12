@@ -2,7 +2,7 @@ Spam Review Detection using SOM-CNN
 
 Prerequisites to run the codes:
 
-•	Pretrained glove 300 dimension word representation vectors which can be downloaded from https://nlp.stanford.edu/projects/glove/. 
+•	Pretrained GloVe-300 dimension word representation vectors which can be downloaded from https://nlp.stanford.edu/projects/glove/. 
 
 •	Installing or copying the SRD_minisom.py in the same folder as the algorithms. SRD_minisom.py, included here, is our modified version of the MiniSom.py library originally retrieved from https://test.pypi.org/project/MiniSom/. 
 
